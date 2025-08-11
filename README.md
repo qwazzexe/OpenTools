@@ -1,12 +1,4 @@
-   ____                   _______           _     
-  / __ \                 |__   __|         | |    
- | |  | |_ __   ___ _ __    | | ___   ___ | |___ 
- | |  | | '_ \ / _ \ '_ \   | |/ _ \ / _ \| / __|
- | |__| | |_) |  __/ | | |  | | (_) | (_) | \__ \
-  \____/| .__/ \___|_| |_|  |_|\___/ \___/|_|___/
-        | |                                      
-        |_|                                      
-        
+
 A collection of open-source, powerful, and practical developer tools.
 From networking to security, automation to scraping — scripts designed to make your workflow faster and smarter.
 📂 Categories
